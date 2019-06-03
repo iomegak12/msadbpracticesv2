@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ADB-05\\References\\msanalyticsdemonstrations\\SensorTelemetrySenderSolution\\SensorTelemetrySenderApp\\SensorTelemetrySenderApp.csproj",
+      "projectUniqueName": "C:\\ADB-05v2\\Demonstrations\\msadbpracticesv2\\SensorTelemetrySenderSolution\\SensorTelemetrySenderApp\\SensorTelemetrySenderApp.csproj",
       "projectName": "SensorTelemetrySenderApp",
-      "projectPath": "C:\\ADB-05\\References\\msanalyticsdemonstrations\\SensorTelemetrySenderSolution\\SensorTelemetrySenderApp\\SensorTelemetrySenderApp.csproj",
+      "projectPath": "C:\\ADB-05v2\\Demonstrations\\msadbpracticesv2\\SensorTelemetrySenderSolution\\SensorTelemetrySenderApp\\SensorTelemetrySenderApp.csproj",
       "packagesPath": "C:\\Users\\iomeg\\.nuget\\packages\\",
-      "outputPath": "C:\\ADB-05\\References\\msanalyticsdemonstrations\\SensorTelemetrySenderSolution\\SensorTelemetrySenderApp\\obj\\",
+      "outputPath": "C:\\ADB-05v2\\Demonstrations\\msadbpracticesv2\\SensorTelemetrySenderSolution\\SensorTelemetrySenderApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
